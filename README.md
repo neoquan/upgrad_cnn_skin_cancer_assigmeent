@@ -1,4 +1,4 @@
-# Melanoma-Detection.
+# Melanoma-Detection
 
 The objective of this project is to develop a CNN-based model capable of accurately detecting melanoma, a potentially fatal type of cancer. Melanoma accounts for 75% of skin cancer-related deaths, making early detection crucial. By creating a solution that can assess images and notify dermatologists about the presence of melanoma, a substantial amount of manual effort required for diagnosis can be reduced.
 
